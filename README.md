@@ -1,2 +1,2 @@
 # packed
-https://github.com/paulmillr/micro-packed
+Moved to https://github.com/paulmillr/micro-packed
